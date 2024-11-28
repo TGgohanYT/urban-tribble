@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "educational-diabetes.gl.joinmc.link",
-          "assigned_srv": "educational-diabetes.gl.joinmc.link",
+          "assigned_domain": "regional-looked.gl.joinmc.link",
+          "assigned_srv": "regional-looked.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "f1afe2b9-29d9-4e55-819e-9f609e1c97ee",
+          "id": "7d6f7107-99a2-48e3-b9e9-011021cf9b47",
           "ip_hostname": "24.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 9938,
-          "port_start": 9937,
+          "port_end": 10105,
+          "port_start": 10104,
           "region": "global",
           "static_ip4": "147.185.221.24",
           "tunnel_ip": "2602:fbaf:0:1::18"
         },
         "status": "allocated"
       },
-      "created_at": "2024-11-28T01:20:52.787159Z",
+      "created_at": "2024-11-28T01:53:25.890230Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "e2baf60e-9662-47b8-aa31-9694b5c78bd1",
+      "id": "4c1a02cc-4131-4b42-a46b-d378085908cb",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "8a5fbf28-944d-44a2-8bdc-c53035f31f4f",
-          "agent_name": "from-key-6051",
+          "agent_id": "ae14c549-34b5-483a-addd-28e57b3a8592",
+          "agent_name": "from-key-59fe",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
